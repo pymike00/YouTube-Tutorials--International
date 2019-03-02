@@ -12,6 +12,8 @@ International YouTube Channel: https://www.youtube.com/channel/UCxPWtz5N--X3IyYJ
 
 + Python, TKINTER and REQUESTS: Let's Build a COMPLETE PROGRAM!: https://youtu.be/73WpYMulq2k
 
++ How to Build a Text Editor with PYTHON and TKINTER (mini series): https://youtu.be/7PGFin30c4o
+
 <hr>
 
 #### Help Us Grow! Subscribe to the Channel: https://www.youtube.com/channel/UCxPWtz5N--X3IyYJ13Zr99A?sub_confirmation=1
