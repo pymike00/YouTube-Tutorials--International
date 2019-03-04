@@ -94,12 +94,12 @@ class PyText:
                 initialfile="Untitled.txt",
                 defaultextension=".txt",
                 filetypes=[("All Files", "*.*"),
-	                       ("Text Files", "*.txt"),
-	                       ("Python Scripts", "*.py"),
-	                       ("Markdown Documents", "*.md"),
-	                       ("JavaScript Files", "*.js"),
-	                       ("HTML Documents", "*.html"),
-	                       ("CSS Documents", "*.css")])
+						   ("Text Files", "*.txt"),
+						   ("Python Scripts", "*.py"),
+						   ("Markdown Documents", "*.md"),
+						   ("JavaScript Files", "*.js"),
+						   ("HTML Documents", "*.html"),
+						   ("CSS Documents", "*.css")])
             textarea_content = self.textarea.get(1.0, tk.END)
             with open(new_file, "w") as f:
                 f.write(textarea_content)
