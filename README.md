@@ -8,6 +8,8 @@ International YouTube Channel: https://www.youtube.com/channel/UCxPWtz5N--X3IyYJ
 
 ### Links
 
++ Speed Coding of a Python REVERSE SHELL: https://youtu.be/AV9JdETO4LY
+
 + How to EASILY Create GUIs for PYTHON 3.7 with TKINTER: https://youtu.be/-jvDEbw3XOU
 
 + Python, TKINTER and REQUESTS: Let's Build a COMPLETE PROGRAM!: https://youtu.be/73WpYMulq2k
